@@ -18,8 +18,7 @@ Mean read quality score | 14.2 | 13.8
 
 * Reads with quality score over threshold value were filtered to generate genome with high completeness.
 * Reads were assembled with [Flye genome assembler](https://github.com/fenderglass/Flye) v2.9.5 with `--nano-hq --iterations 2` parameters.
-* [Medaka](https://github.com/nanoporetech/medaka) v1.7.2 was used to correct errors in the draft genome assembly for PDY4.
-* Genome completeness assession with [checkM](https://github.com/Ecogenomics/CheckM) v1.2.3 or [BUSCO](https://busco.ezlab.org/) v5.7.1.
+
 
 Statistics | PDY3 | PDY4
 ---- | ---- | ----
