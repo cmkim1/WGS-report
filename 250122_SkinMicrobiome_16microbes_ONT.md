@@ -1,8 +1,8 @@
 # WGS summary of 16 microbes isolated from skin
 
-Microbes were isolated from Chungmin Kim, Kihyeon Nam, Minkoo Jeong
-gDNA was extracted with GeneAll Exgene Cell SV kit
-gDNA sequencing was performed with Oxford Nanopore MinION platform.
+Microbes were isolated from Chungmin Kim, Kihyeon Nam, Minkoo Jeong.  
+gDNA was extracted with GeneAll Exgene Cell SV kit.  
+gDNA sequencing was performed with Oxford Nanopore MinION platform.  
 
 * DNA extraction: Chungmin Kim, Kihyeon Nam, Minkoo Jeong
 * Library preparation, sequencing: Chungmin Kim
