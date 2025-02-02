@@ -38,7 +38,7 @@ Contig N50 (bp) | 2,504,345 | 2,238,962 | 2,264,338 | 2,198,468 | 2,436,555 | 2,
 Contig L50 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 GC ratio (%) | 0.32 | 0.32 | 0.32 | 0.33 | 0.32 | 0.32 | 0.27 | 0.73
 Genome coverage | 177 | 30 | 26 | 28 | 77 | 73 | 67 | 13
-Genome completeness (%) | 
+Genome completeness (%) | 99.81 | 99.38 | 99.38 | 99.81 | 99.81 | 99.81 | 99.81 | 98.7
 
 Statistics | MKJ4 | MKJ5 | MKJ8 | MKJ11 | MKJ12 | MKJ25 | NKH8 | CSBL15
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
@@ -48,7 +48,7 @@ Contig N50 (bp) | 2,517,864 | 2,246,689 | 2,511,238 | 4,252,383 | 5,361,359 | 2,
 Contig L50 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 GC ratio (%) | 0.73 | 0.32 | 0.73 | 0.46 | 0.56 | 0.44 | 0.71 | 0.32
 Genome coverage | 20 | 67 | 19 | 44 | 40 | 31 | 39 | 99
-Genome completeness (%) | 
+Genome completeness (%) | 98.7 | 99.38 | 98.7 | 98.96 | 99.62 | 99.71 | 100 | 99.38
 
 
 ## 16S rRNA sequence based species evaluation
