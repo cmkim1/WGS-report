@@ -51,16 +51,17 @@ Genome coverage | 20 | 67 | 19 | 44 | 40 | 31 | 39 | 99
 Genome completeness (%) | 98.7 | 99.38 | 98.7 | 98.96 | 99.62 | 99.71 | 100 | 99.38
 
 
-## 16S rRNA sequence based species evaluation
+## Species identification
+* Average nucleotide identity was calculated using [fastANI](https://github.com/ParBLiSS/FastANI) with reference genomes in the same genus.
 
-* 16S rRNA sequence was identified from the genome sequence using [barrnap](https://github.com/tseemann/barrnap) v0.9 with default parameters.
-* Identified 16S rRNA sequence aligned against NCBI 16S rRNA database with NCBI [web-BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-* Average nucleotide identity was calculated using [fastANI](https://github.com/ParBLiSS/FastANI) with 16s rRNA top-matched genome.
+Statistics | CMK7 | CMK11 | CMK15 | CMK28 | NKH7 | NK14 | NKH16 | MKJ2
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+Genus |
+Species |
+ANI |
 
-### PDY3
-
-* Alignment with 16S rRNA sequence of _Mycolicibacterium neoaurum_ showed 100% identity and genome ANI was 99.08%.
-
-### PDY4
-
-* Alignment with 16S rRNA sequence of _Streptomyces fungicidicus_ showed and 100% genome ANI was 99%.
+Statistics | MKJ4 | MKJ5 | MKJ8 | MKJ11 | MKJ12 | MKJ25 | NKH8 | CSBL15
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+Genus |
+Species |
+ANI |
