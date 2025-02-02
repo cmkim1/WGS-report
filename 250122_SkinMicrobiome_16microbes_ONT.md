@@ -56,12 +56,17 @@ Genome completeness (%) | 98.7 | 99.38 | 98.7 | 98.96 | 99.62 | 99.71 | 100 | 99
 
 Metrics | CMK7 | CMK11 | CMK15 | CMK28 | NKH7 | NK14 | NKH16 | MKJ2
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-Genus |
-Species |
-ANI |
+Genus | _Staphylococcus_ | _Staphylococcus_ | _Staphylococcus_ | _Staphylococcus_ | _Staphylococcus_ | _Staphylococcus_ | _Staphylococcus_ | _Micrococcus_
+Species | _epidermidis_ | _hominis_ | _hominis_ | _capitis_ | _epidermidis_ | _epidermidis_ | _epidermidis_ | _yunnanensis_
+ANI | 99.39 | 98.97 | 97.35 | 96.65 | 99.49 | 99.89 | 99.9 | 97.97
 
 Metrics | MKJ4 | MKJ5 | MKJ8 | MKJ11 | MKJ12 | MKJ25 | NKH8 | CSBL15
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-Genus |
-Species |
-ANI |
+Genus | _Micrococcus_ | _Staphylococcus_ | _Micrococcus_ | _Bacillus_ | _Pseudomonas_ | _Moraxella_ | _Roseomonas_ | _Staphylococcus_
+Species | _yunnanensis_ | _hominis_ | _yunnanensis_ | _licheniformis_ | _zeshuii_ | _osloensis_ | _mucosa_ | _hominis_
+ANI | 97.93 | 97.31 | 97.89 | 99.69 | 99.85 | 96.62 | 98.73 | 97.27
+<br>
+
+* Pairwise ANI between Staphylococci  
+
+<img src = "https://github.com/user-attachments/assets/da31f8b2-4f81-4cd4-b944-06a3aae8515d" width="60%" height="60%">
