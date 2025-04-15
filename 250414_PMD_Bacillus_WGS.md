@@ -33,8 +33,8 @@ Genome completeness (%) | 99.81
 
 ## Species identification
 
-* Average nucleotide identity was calculated using fastANI with reference genome seqeunces of Bacillus in NCBI.
-* The genome was identified as _B. velezensis_, but it is also quite similar to _B. amyloliquefaciens_.
+* Average nucleotide identity was calculated using fastANI with reference genome seqeunces of _Bacillus_ in NCBI.
+* The genome was identified as _B. velezensis_, but it is also quite close to _B. amyloliquefaciens_.
 
 _G. Species_ | ANI
 ---- | ----
