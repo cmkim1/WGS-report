@@ -33,15 +33,16 @@ Genome completeness (%) | 99.2 | 99.6 | 99.6
 
 * 16S rRNA sequence was identified from the genome sequence using [barrnap](https://github.com/tseemann/barrnap) v0.9 with default parameters.
 * Identified 16S rRNA sequence aligned against NCBI rRNA/ITS database or standard database with NCBI [web-BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-* Average nucleotide identity was calculated using [fastANI](https://github.com/ParBLiSS/FastANI) with 16s rRNA top-matched species-containing genus.
+* Average nucleotide identity was calculated using [fastANI](https://github.com/ParBLiSS/FastANI) to reference genomes of 16s rRNA top-matched species-containing genus.
+* For genomes with low ANI to reference genomes, GTDBtk was used for idenfication.
 
 ### YJAN24
-
 * Alignment with 16S rRNA sequence of _Sulfonitrofixus jiaomeiensis_ showed 97% identity and genome ANI was 79%.
+* No closest genome was found by GTDBtk.
 
 ### YJAN111
-
 * Alignment with 16S rRNA sequence of _Sulfurovum xiamenensis_ showed 95% identity and genome ANI was 96%.
 
 ### YJAN112
 * Alignment with 16S rRNA sequence of _Sulfurovum xiamenensis_ showed 95% identity and genome ANI was 87%.
+* [GCF_019972115 (_Sulfurovum_ sp. TSL6)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_019972115.1/) was found as closest genome by GTDBtk with ANI of 98.51%.
