@@ -40,20 +40,31 @@ Genome contamination (%) | **93.75** | **191.67** | **203.12** | **183.65** | 0.
 
 | Statistics | C2 | C3 | C4 | C5 |
 | ---- | ---- | ---- | ---- | ---- |
-| bin1completeness (%) | 99.54 | - | 99.00 | 57.58 |
-| bin1contamination (%) | 1.10 | - | 0.45 | 0.31 |
+| bin1&nbsp;completeness&nbsp;(%) | 99.54 | - | 99.00 | 57.58 |
+| bin1&nbsp;contamination&nbsp;(%) | 1.10 | - | 0.45 | 0.31 |
 | bin1 16S identification | _Arenimonas aquatica_ | - | _Rhodobacter amnigenus_ | _Allobosea minatitlanensis_ |
-| bin2completeness (%) | - | 99.42 | - | - |
-| bin2contamination (%) | - | 0.72 | - | - |
+| bin2&nbsp;completeness&nbsp;(%) | - | 99.42 | - | - |
+| bin2&nbsp;contamination&nbsp;(%) | - | 0.72 | - | - |
 | bin2 16S identification | - | _Erythrobacter ramosus_ | - | - |
-| bin3completeness (%) | 76.06 | 98.65 | 98.94 | 99.27 |
-| bin3contamination (%) | 0 | 0 | 0 | 0 |
+| bin3&nbsp;completeness&nbsp;(%) | 76.06 | 98.65 | 98.94 | 99.27 |
+| bin3&nbsp;contamination&nbsp;(%) | 0 | 0 | 0 | 0 |
 | bin3 16S identification | _Lacibacter koreensis_ | _Microcoleus anatoxicus_ / **_Phormidium nigroviride_** | _Microcoleus anatoxicus_ / **_Phormidium nigroviride_** | _Microcoleus anatoxicus_ / **_Phormidium nigroviride_** |
-| bin4completeness (%) | 94.81 | 74.22 | 97.01 | 99.43 |
-| bin4contamination (%) | 0.83 | 0.78 | 1.37 | 2.09 |
+| bin4&nbsp;completeness&nbsp;(%) | 94.81 | 74.22 | 97.01 | 99.43 |
+| bin4&nbsp;contamination&nbsp;(%) | 0.83 | 0.78 | 1.37 | 2.09 |
 | bin4 16S identification | **_Pseudanabaena foetida_** | _Dyadobacter psychrophilus_ (94.57) | _Neoroseomonas lacus_ | _Erythrobacter neustonensis_ |
 
 ## Odor compound synthesisizing genes
+  
+* Genomes were annotated using [prokka](https://github.com/tseemann/prokka) v1.14.6
+* Odor compound synthesizing genes were searched using BLASTp.
+* Carotenoid cleavage dioxygenase 1 from _Synechocystis_ sp., 2-methylisoborneol synthase from _Streptomyces venezuelae_ and geosmin synthase from _Coelosphaerium_ sp. G3 were used as queries.
+* Odor compounds detected by GC in the samples are indicated in **bold**.
 
+Compounds (gene) | C2&nbsp;Bin4 _Pseudanabaena&nbsp;foetida_ | C3&nbsp;Bin3 _Phormidium&nbsp;nigroviride_ | C4&nbsp;Bin3 _Phormidium&nbsp;nigroviride_ | C5&nbsp; Bin3 _Phormidium&nbsp;nigroviride_ | P1 _Massilia&nbsp;aurea_ | P2 _Janthinobacterium&nbsp;aestuarii_ | A3 _Streptomyces&nbsp;venezuelae_
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- 
+Geosmin (geosmin synthase) | - | **PBBIBEND_00354 Germacradienol/geosmin&nbsp;synthase** | **JFIELPJI_05312 Germacradienol/geosmin&nbsp;synthase** | **PDMAKKBE_00359 Germacradienol/geosmin&nbsp;synthase** | - | - | NKOHJOIO_00838&nbsp;Germacradienol/geosmin&nbsp;synthase NKOHJOIO_01109&nbsp;Germacradienol/geosmin&nbsp;synthase NKOHJOIO_069329&nbsp;hypothetical&nbsp;protein
+2-MIB (2-MIB synthase) | - | PBBIBEND_00354 Germacradienol/geosmin&nbsp;synthase | JFIELPJI_05312 Germacradienol/geosmin&nbsp;synthase | PDMAKKBE_00359 Germacradienol/geosmin&nbsp;synthase | - | **Not found** | **NKOHJOIO_00838&nbsp;Germacradienol/geosmin&nbsp;synthase NKOHJOIO_01109&nbsp;Germacradienol/geosmin&nbsp;synthase NKOHJOIO_069329&nbsp;hypothetical&nbsp;protein**
+beta-cyclocitral & beta-ionone (carotenoid&nbsp;cleavage&nbsp;dioxygenase1)| **NPBPOGNA_00278 hypothetical&nbsp;protein** | PBBIBEND_03032&nbsp;Apocarotenoid15,15'oxygenase PBBIBEND_02667&nbsp;Apocarotenoid15,15'oxygenase | JFIELPJI_00123&nbsp;Apocarotenoid15,15'oxygenase JFIELPJI_02995&nbsp;Apocarotenoid15,15'oxygenase | PDMAKKBE_03039&nbsp;Apocarotenoid15,15'oxygenase PDMAKKBE_02672&nbsp;Apocarotenoid15,15'oxygenase | **Not found** | - | NKOHJOIO_07584&nbsp;Carotenoid&nbsp;cleavage&nbsp;oxygenase NKOHJOIO_07364&nbsp;Carotenoid&nbsp;cleavage&nbsp;oxygenase
 
-
+* geoA genes were also hit with 2-MIB synthase due to shared terpene cyclase domain.
+* Carotenoid-15,15′-oxygenase genes were hit by CCD1 BLAST queries due to carotenoid oxygenase domains.
