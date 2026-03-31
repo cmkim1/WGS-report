@@ -1,9 +1,10 @@
 # gDNA sequencing summary for 한강통합물환경센터
 
-gDNA sequencing was performed with Oxford Nanopore MinION platform.
+gDNA sequencing was performed with Oxford Nanopore MinION platform. Sequencing and analysis done by Chungmin Kim.
 
-* Library preparation, sequencing: Chungmin Kim
-* Genome assembly, QC: Chungmin Kim
+* Library preparation: SQK-RBK114.24
+* Sequencing: FLO-MIN114 in Mk1B
+* Basecalling: [Dorado](https://github.com/nanoporetech/dorado) v1.4.0 with dna_r10.4.1_e8.2_400bps_sup@v5.2.0
 
 ## Sequencing summary
 
@@ -35,8 +36,10 @@ Genome contamination (%) | **93.75** | **191.67** | **203.12** | **183.65** | 0.
 
 ## Mixed genome binning
 
+* To separate the mixed genomes (C2, C3, C4 and C5), MAG binning was performed.
 * Binning was performed using [MetaBAT2](https://bitbucket.org/berkeleylab/metabat/src/master/) v2.17.
 * Each sample was binned into four bins.
+* Bacteria detected under the microscope are indicated in bold.
 
 | Statistics | C2 | C3 | C4 | C5 |
 | ---- | ---- | ---- | ---- | ---- |
@@ -56,7 +59,7 @@ Genome contamination (%) | **93.75** | **191.67** | **203.12** | **183.65** | 0.
 ## Odor compound synthesizing genes
   
 * Genomes were annotated using [prokka](https://github.com/tseemann/prokka) v1.14.6
-* Odor compound synthesizing genes were searched using BLASTp.
+* Odor compound synthesizing genes were searched using tBLASTn & BLASTp.
 * Carotenoid cleavage dioxygenase 1 from _Synechocystis_ sp., 2-methylisoborneol synthase from _Streptomyces venezuelae_ and geosmin synthase from _Coelosphaerium_ sp. G3 were used as queries.
 * Odor compounds detected by GC in the samples are indicated in **bold**.
 
@@ -68,4 +71,13 @@ beta-cyclocitral & beta-ionone (carotenoid&nbsp;cleavage&nbsp;dioxygenase1)| **N
 
 * geoA genes were also hit with 2-MIB synthase due to shared terpene cyclase domain. Terpene cyclase gene located nearby the SAM-dependent methyltransferase (Mib A) gene was identified as 2-MIB synthase.
 * Carotenoid-15,15′-oxygenase genes were hit by CCD1 BLAST queries due to carotenoid oxygenase domains.
-* 2-MIB synthase and cartotenoid cleavage dioxygenase gene was not found in P1 and P2 genome although the compounds were detected by GC.
+* 2-MIB synthase and carotenoid cleavage dioxygenase gene was not found in P1 and P2 genome although the compounds have been detected by GC.
+
+## geoA detecting primers
+
+* Previously designed geoA-detecting primers were evaluated against geoA sequences found in the C3, C4, C5, and A3 genomes.
+* The following primers show a 100% match.
+
+C3&nbsp;Bin3 _Phormidium&nbsp;nigroviride_ | C4&nbsp;Bin3 _Phormidium&nbsp;nigroviride_ | C5&nbsp; Bin3 _Phormidium&nbsp;nigroviride_ | A3 _Streptomyces&nbsp;venezuelae_
+---- | ---- | ---- | ----
+4R, 5R, 6F, 6R, 8R, 9F, 2163R | 4R, 5R, 6F, 6R, 8R, 9F, 2163R | 4R, 5R, 6F, 6R, 8R, 9F, 2163R | 1F, 1R, 2F, 2R, 3F, 3R, 5R, 10F
