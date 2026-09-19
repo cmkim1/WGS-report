@@ -1,0 +1,99 @@
+sample	Name	classification	Completeness	Contamination	quality_tier	Contig_N50	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length
+C06	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__	100	0.07	High-Quality (HQ)	5189650	5189650	0.68	4181	1	5189650
+C06	binette_bin10	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__Mariniradius;s__	50.02	1.22	Medium-Quality (MQ)	23702	2795856	0.47	2963	146	78214
+C06	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	100	0.17	High-Quality (HQ)	6586680	6586680	0.46	5570	1	6586680
+C06	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	1.57	High-Quality (HQ)	494867	3243662	0.64	3040	9	652674
+C06	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Neoroseomonas;s__	91.69	0.63	High-Quality (HQ)	70842	4501339	0.72	4457	100	229055
+C06	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas;s__	85.85	0.54	Medium-Quality (MQ)	62411	3360289	0.63	3419	82	195244
+C06	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aquamicrobium_A;s__Aquamicrobium_A microcysteis	86.7	1.84	Medium-Quality (MQ)	30529	4178018	0.64	4335	165	111773
+C06	binette_bin7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Lacibacter;s__	82.3	0.22	Medium-Quality (MQ)	40907	3609837	0.42	3582	111	132103
+C06	binette_bin8	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	75.17	1.21	Medium-Quality (MQ)	31148	3008073	0.64	3206	126	80236
+C06	binette_bin9	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Phreatobacteraceae;g__Phreatobacter;s__Phreatobacter sp022843985	58.3	0.04	Medium-Quality (MQ)	20992	2711215	0.68	2728	148	75184
+C07	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__	100	0.07	High-Quality (HQ)	4436598	5183801	0.68	4180	2	4436598
+C07	binette_bin10	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	57.74	0.1	Medium-Quality (MQ)	19558	2215456	0.64	2416	125	60160
+C07	binette_bin11	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Neoroseomonas;s__	52.38	0.35	Medium-Quality (MQ)	20627	2941712	0.72	3089	171	59710
+C07	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Devosiaceae;g__Pelagibacterium;s__	100	0.12	High-Quality (HQ)	2752501	3636151	0.61	3537	2	2752501
+C07	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Phreatobacteraceae;g__Phreatobacter;s__Phreatobacter sp022843985	99.6	0.07	High-Quality (HQ)	160049	4433653	0.67	4281	43	493711
+C07	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	0.3	High-Quality (HQ)	3241716	3241716	0.64	3036	1	3241716
+C07	binette_bin5	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.99	0.02	High-Quality (HQ)	6592661	6592661	0.46	5588	1	6592661
+C07	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas;s__	99.88	0.54	High-Quality (HQ)	144555	3485083	0.63	3441	39	285160
+C07	binette_bin7	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Tabrizicola;s__	97.94	0.28	High-Quality (HQ)	133153	3765544	0.67	3795	42	306369
+C07	binette_bin8	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__Gemmatimonas;s__	96.63	2.39	High-Quality (HQ)	253028	4594503	0.66	4023	43	561965
+C07	binette_bin9	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aquibium;s__	65.78	0.27	Medium-Quality (MQ)	19812	3265666	0.67	3442	198	79567
+C08	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__Gemmobacter_B sp022843025	99.92	0.02	High-Quality (HQ)	4004243	4004243	0.64	3859	1	4004243
+C08	binette_bin2	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Microcella;s__Microcella sp027490915	99.83	0.01	High-Quality (HQ)	2476809	2476809	0.71	2337	1	2476809
+C08	binette_bin3	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.98	0.01	High-Quality (HQ)	6608769	6608769	0.46	5574	1	6608769
+C08	binette_bin4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__NS11-12g;f__UKL13-3;g__UBA6183;s__	99.99	0.33	High-Quality (HQ)	3222378	3461855	0.36	2919	2	3222378
+C08	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__TH1-2;g__Vitreimonas;s__Vitreimonas sp016791325	99.87	0.48	High-Quality (HQ)	1283114	3714073	0.64	3817	4	1607946
+C08	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	68.57	0.07	Medium-Quality (MQ)	29901	2715595	0.64	2809	123	154605
+C09	binette_bin1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Lacibacter;s__	99.99	0	High-Quality (HQ)	3620801	4343741	0.42	3894	2	3620801
+C09	binette_bin10	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Hydrogenophaga;s__	87.45	0.1	Medium-Quality (MQ)	76545	4204826	0.65	4085	83	302449
+C09	binette_bin11	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	79.47	0.5	Medium-Quality (MQ)	52112	3569897	0.64	3725	94	284437
+C09	binette_bin12	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aquibium;s__	40.92	2.67	Low-Quality (LQ)	20461	2500227	0.67	2563	140	67109
+C09	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Allorhizobium;s__Allorhizobium sp001724035	99.94	0.01	High-Quality (HQ)	4418942	4418942	0.61	4201	1	4418942
+C09	binette_bin3	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp036701635	100	0	High-Quality (HQ)	6891276	6891276	0.46	5803	1	6891276
+C09	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__DAINOF01;s__	99.86	0.1	High-Quality (HQ)	270253	4542141	0.69	4569	22	799895
+C09	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	0.3	High-Quality (HQ)	3241289	3241289	0.64	3035	1	3241289
+C09	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__Aquimonas sp937888285	100	0.39	High-Quality (HQ)	5116623	5116623	0.69	4119	1	5116623
+C09	binette_bin7	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Devosiaceae;g__Devosia_A;s__	99.99	0.73	High-Quality (HQ)	359274	4294945	0.64	4254	16	857292
+C09	binette_bin8	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Neoroseomonas;s__	99.33	0.65	High-Quality (HQ)	5400213	5400213	0.72	5217	1	5400213
+C09	binette_bin9	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__Gemmatimonas;s__	94.33	2.26	High-Quality (HQ)	314589	4500930	0.66	3955	26	535508
+C10	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Allorhizobium;s__Allorhizobium sp001724035	99.9	0.01	High-Quality (HQ)	580091	4392809	0.61	4207	12	860017
+C10	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.98	0	High-Quality (HQ)	6587712	6587712	0.46	5561	1	6587712
+C10	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	0.3	High-Quality (HQ)	3241260	3241260	0.64	3039	1	3241260
+C10	binette_bin4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__UBA7662;f__UBA7662;g__UBA7662;s__	100	0.34	High-Quality (HQ)	3349420	3349420	0.47	2876	1	3349420
+C10	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Arenimonas;s__Arenimonas sp001724815	94.64	0	High-Quality (HQ)	100705	2797232	0.7	2598	48	198968
+C10	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aquibium;s__	66.49	0.39	Medium-Quality (MQ)	23791	3659387	0.66	3667	183	120788
+C11	binette_bin1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__UBA7662;f__UBA7662;g__UBA7662;s__	99.99	0.2	High-Quality (HQ)	3422804	3422804	0.47	2921	1	3422804
+C11	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aquibium;s__	99.95	0.32	High-Quality (HQ)	74867	5752129	0.67	5565	116	301705
+C11	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	0.3	High-Quality (HQ)	3241287	3241287	0.64	3036	1	3241287
+C11	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Arenimonas;s__Arenimonas sp001724815	98.63	0	High-Quality (HQ)	101227	2772007	0.7	2556	41	456562
+C11	binette_bin5	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.93	0	High-Quality (HQ)	6586509	6586509	0.46	5608	1	6586509
+C11	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Hydrogenophaga;s__	92.31	0.46	High-Quality (HQ)	62654	4317407	0.65	4181	90	169860
+C11	binette_bin7	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	88.54	0.18	Medium-Quality (MQ)	37783	3444789	0.64	3513	108	133710
+C12	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	99.89	0.06	High-Quality (HQ)	3994062	3994062	0.64	3833	1	3994062
+C12	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.99	0.12	High-Quality (HQ)	6593333	6593333	0.46	5543	1	6593333
+C12	binette_bin3	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Microcella;s__	57.31	0.4	Medium-Quality (MQ)	26163	1642734	0.66	1768	75	57976
+C13	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__	100	0.07	High-Quality (HQ)	5189608	5189608	0.68	4186	1	5189608
+C13	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	0.3	High-Quality (HQ)	3241287	3241287	0.64	3035	1	3241287
+C13	binette_bin3	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.88	0.1	High-Quality (HQ)	6596173	6596173	0.46	5709	1	6596173
+C13	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	80.11	0.21	Medium-Quality (MQ)	31942	3117398	0.64	3303	120	177955
+C13	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Neoroseomonas;s__	70.76	1.85	Medium-Quality (MQ)	24437	3675066	0.72	3805	192	89147
+C13	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas;s__	54.78	0.02	Medium-Quality (MQ)	23380	1738418	0.63	1860	85	81460
+C14	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	99.93	0.07	High-Quality (HQ)	3994250	3994250	0.64	3835	1	3994250
+C14	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.99	0	High-Quality (HQ)	6597573	6597573	0.46	5552	1	6597573
+C15	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__	100	0.07	High-Quality (HQ)	4436622	5183824	0.68	4183	2	4436622
+C15	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	100	0.3	High-Quality (HQ)	3115713	3241900	0.64	3035	2	3115713
+C15	binette_bin3	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.57	0.32	High-Quality (HQ)	556753	6435187	0.46	5608	29	771348
+C15	binette_bin4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Lacibacter;s__	87.44	0.37	Medium-Quality (MQ)	49808	4195242	0.41	3969	134	175303
+C15	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	83.53	0.72	Medium-Quality (MQ)	28155	3165504	0.64	3278	146	79022
+C15	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Caldimonas;s__	70.2	6.04	Medium-Quality (MQ)	14454	3834727	0.69	3924	286	50249
+C16	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	99.88	0.05	High-Quality (HQ)	3994256	3994256	0.64	3832	1	3994256
+C16	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.99	0.53	High-Quality (HQ)	6586262	6586262	0.46	5586	1	6586262
+C16	binette_bin3	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Microcella;s__	78.98	0.09	Medium-Quality (MQ)	30642	2047812	0.66	2174	85	82606
+C17	binette_bin1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__CAIKAF01;f__CAIKAF01;g__JAKRSD01;s__	100	0.06	High-Quality (HQ)	3628576	3628576	0.43	3135	1	3628576
+C17	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	99.91	0.06	High-Quality (HQ)	3994241	3994241	0.64	3835	1	3994241
+C17	binette_bin3	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.98	0	High-Quality (HQ)	6602742	6602742	0.46	5555	1	6602742
+C18	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__	100	0.08	High-Quality (HQ)	5189650	5189650	0.68	4183	1	5189650
+C18	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.99	0	High-Quality (HQ)	6595926	6595926	0.46	5570	1	6595926
+C18	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas;s__	100	0.31	High-Quality (HQ)	65775	3471830	0.62	3564	70	199919
+C18	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Caldimonas;s__	96.3	0.08	High-Quality (HQ)	2716885	3866006	0.68	3601	3	2716885
+C18	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	99.44	1.5	High-Quality (HQ)	157721	3325698	0.64	3249	42	384648
+C18	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Neoroseomonas;s__	97.75	0.5	High-Quality (HQ)	805256	5294121	0.72	5174	16	1047216
+C18	binette_bin7	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__UBA1924;g__JAHBXC01;s__	64.24	0.14	Medium-Quality (MQ)	73154	2947605	0.69	3011	66	187245
+C18	binette_bin8	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aquibium;s__	40.73	0.09	Low-Quality (LQ)	24816	2061701	0.67	2111	102	87493
+C18	binette_bin9	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	47.88	5.1	Low-Quality (LQ)	20768	1916902	0.64	2128	98	57283
+C19	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__	100	0.06	High-Quality (HQ)	5189647	5189647	0.68	4186	1	5189647
+C19	binette_bin2	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.97	0	High-Quality (HQ)	6603111	6603111	0.46	5565	1	6603111
+C19	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Caldimonas;s__	99.99	0.49	High-Quality (HQ)	1302880	4364105	0.68	4076	5	1675476
+C19	binette_bin4	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Neoroseomonas;s__	95.97	0.54	High-Quality (HQ)	451972	5326964	0.72	5192	18	1451365
+C19	binette_bin5	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	88.94	0.2	Medium-Quality (MQ)	131692	3003691	0.64	2956	38	270826
+C19	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__Hyphomonas;s__	86.27	2.17	Medium-Quality (MQ)	106489	3249735	0.63	3357	60	179272
+C19	binette_bin7	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__UBA1924;g__JAHBXC01;s__	73.87	0.95	Medium-Quality (MQ)	54183	2927976	0.69	3078	79	201387
+C19	binette_bin8	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	45.38	5.91	Low-Quality (LQ)	21300	2009803	0.64	2273	110	56679
+C20	binette_bin1	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Arenimonas;s__Arenimonas sp001724815	99.99	0	High-Quality (HQ)	2103248	2979824	0.7	2697	3	2103248
+C20	binette_bin2	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Caulobacterales;f__TH1-2;g__VFBF01;s__VFBF01 sp016791445	99.98	0.11	High-Quality (HQ)	2221005	3802114	0.66	3756	2	2221005
+C20	binette_bin3	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	99.89	0.15	High-Quality (HQ)	3994251	3994251	0.64	3833	1	3994251
+C20	binette_bin4	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Microcoleaceae;g__Microcoleus;s__Microcoleus sp015207505	99.97	0	High-Quality (HQ)	6608519	6608519	0.46	5574	1	6608519
+C20	binette_bin5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__UBA7662;f__UBA7662;g__UBA7662;s__	99.99	0.34	High-Quality (HQ)	3349431	3349431	0.47	2874	1	3349431
+C20	binette_bin6	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Roseococcus;s__Roseococcus rosea	98.67	0.13	High-Quality (HQ)	4824391	4824391	0.7	4609	1	4824391
