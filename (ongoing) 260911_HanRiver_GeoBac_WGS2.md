@@ -67,12 +67,19 @@ No. of HQ MAG | 2 | 3 | 2 | 3 | 6 | 4 | 6 | 68
 No. of MQ MAG | 0 | 3 | 1 | 0 | 1 | 3 | 0 | 26
 No. of LQ MAG | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 4
 Total MAGs | 2 | 6 | 3 | 3 | 9 | 8 | 6 | 98
- 
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/a0d30e56-1049-408a-85ef-0d0db7014f56" width="800">
+
+<br>
+<br>
+
+You can see information about all MAGs in [here](https://github.com/cmkim1/WGS-report/blob/main/260911_HanRiver_WGS_mag_table.tsv)
+
 ## Geosmine-producing _Phormidium_ (_Microcoleus_)
   
-* _Phormidium_ and its geoA genes was detected in all samples.
-* All _Phormidium_ have 99.9% genome ANI except for one from C09 sample (85% with C09 _Phormidium_).
-* Likewise, geoA gene sequence was 100% identical except for _Phormidium_ C09.
+* _Phormidium_ genome (with high completeness) and its geoA gene was detected in all samples.
 
 Statistics | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
@@ -93,6 +100,9 @@ Genome size (bp) | 6,597,573 | 6,435,187 | 6,586,262 | 6,602,742 | 6,595,926 | 6
 <br>
 
 ## ANI (Whole genome & geoA gene)
+
+* All _Phormidium_ have 99.9% genome ANI except for one from C09 sample (85% with C09 _Phormidium_).
+* Likewise, geoA gene sequence was 100% identical except for _Phormidium_ C09.
 
 <img src="https://github.com/user-attachments/assets/8dd4de91-76e3-4b04-b8d2-2060793655ee" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/4db46ca0-b091-42cf-a310-b98e8b9d5e7f" width="400">
