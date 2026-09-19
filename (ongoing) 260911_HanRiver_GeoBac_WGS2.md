@@ -8,10 +8,10 @@ gDNA sequencing was performed with Oxford Nanopore MinION platform. Sequencing a
 
 ## Workflow
 
-Read QC: SeqKit (v2.13.0)
-De novo Assembly: nanoMDBG (v1.4)
-Binning & Refinement: MetaBAT2 (v2.18), SemiBin2 (v2.4.1) & Binette (v1.2.1)
-Quality Assessment: CheckM2 (v1.1.0)
+Read QC: SeqKit (v2.13.0)  
+De novo Assembly: nanoMDBG (v1.4)  
+Binning & Refinement: MetaBAT2 (v2.18), SemiBin2 (v2.4.1) & Binette (v1.2.1)  
+Quality Assessment: CheckM2 (v1.1.0)  
 Taxonomic Classification: GTDB-Tk (v2.5.0, Release 226)
 
 ## Yield summary
